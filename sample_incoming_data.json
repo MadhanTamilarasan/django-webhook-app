@@ -1,0 +1,19 @@
+{
+    "event_type": "order_placed",
+    "order_id": 12345,
+    "customer": {
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com"
+    },
+    "items": [
+      {
+        "name": "Product A",
+        "quantity": 2
+      },
+      {
+        "name": "Product B",
+        "quantity": 1
+      }
+    ]
+  }
+  

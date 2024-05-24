@@ -1,0 +1,6 @@
+{
+    "username": "john_doe",
+    "password": "secure_password123",  # Replace with a hashed password in production
+    "email": "john.doe@example.com"
+  }
+  

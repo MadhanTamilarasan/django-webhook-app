@@ -1,0 +1,9 @@
+{
+    "name": "My New Destination",
+    "description": "This is a description of the destination.",
+    "location": {
+      "latitude": 40.7128,
+      "longitude": -74.0059
+    }
+  }
+  
